@@ -14,6 +14,7 @@ function main {
         set_firewall
         exit 0
     fi
+    
 }
 
 main
